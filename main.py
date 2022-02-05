@@ -8,7 +8,7 @@ def main():
     url = 'https://en.wikipedia.org/wiki/2020_Summer_Olympics_medal_table'
 
     # define the file I want to output to
-    output_file = './2022_medals.json'
+    output_file = './2020_medals.json'
 
     # Define the variables I will use for storing the values from the table
     rank = ""
