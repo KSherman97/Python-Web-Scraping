@@ -12,3 +12,4 @@ url: https://en.wikipedia.org/wiki/2020_Summer_Olympics_medal_table?lang=en
 ## Requirements
 - Python
 - Pandas Library
+- lxml
