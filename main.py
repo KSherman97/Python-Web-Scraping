@@ -4,7 +4,7 @@ import io
 
 def medals_2020():
     # Define the page url
-    url = 'https://en.wikipedia.org/wiki/2020_Summer_Olympics_medal_table'
+    url = "https://en.wikipedia.org/wiki/2020_Summer_Olympics_medal_table"
 
     # define the file I want to output to
     output_file = './2020_medals.json'
